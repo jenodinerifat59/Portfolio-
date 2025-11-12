@@ -3,6 +3,8 @@ import Contener from '../component/Contener'
 import Title from '../component/Title'
 import Flex from '../component/Flex'
 import ListItems from '../component/ListItems'
+import Image from '../component/Image'
+import MyImag from '../image/myIMg.png'
 const About = () => {
     return (
         <section className='bg-[#131720]'>
@@ -12,6 +14,7 @@ const About = () => {
                    <Flex>
                       <div className='w-1/2'>
 
+                     <Image src={MyImag}/>
 
 
                         </div>
