@@ -18,7 +18,7 @@ const Hero = () => {
   };
 
   return (
-    <section className='bg-gradient-to-r from-[#0C2246] via-[#12476A] to-[#0D4669] pt-[80px] pb-[80px] md:pt-[100px] md:pb-[100px] overflow-hidden'>
+    <section id="Home" className='bg-gradient-to-r from-[#0C2246] via-[#12476A] to-[#0D4669] pt-[80px] pb-[80px] md:pt-[100px] md:pb-[100px] overflow-hidden'>
       <Contener className='text-center px-4'> 
 
         <motion.h1

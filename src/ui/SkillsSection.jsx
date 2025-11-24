@@ -11,7 +11,7 @@ const skillsData = [
 
 const SkillsSection = () => {
   return (
-    <section className="py-16 bg-[#0C1B33] flex flex-col items-center">
+    <section id="Skills" className="py-16 bg-[#0C1B33] flex flex-col items-center">
       <div className="container mx-auto px-4">
         <h2 className="text-3xl font-bold text-white mb-10 text-center">
           Skills & Technologies

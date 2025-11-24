@@ -8,7 +8,7 @@ import MyImag from '../image/myIMg.png'
 
 const About = () => {
     return (
-        <section className='bg-[#131720]'>
+        <section id="About" className='bg-[#131720]'>
             <Contener>
                 <div className='text-[#1FB1F9] pt-[70px] pb-[70px]'> 
                     <Title head_title="About Me" />
